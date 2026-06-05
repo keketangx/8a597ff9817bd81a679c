@@ -1,0 +1,108 @@
+{
+  "total": 24,
+  "per_page": 8,
+  "current_page": 1,
+  "last_page": 3,
+  "next_page_url": "https://animepahe.pw/api?query=pripara&page=2",
+  "prev_page_url": null,
+  "from": 1,
+  "to": 8,
+  "data": [
+    {
+      "id": 3731,
+      "title": "PriPara",
+      "type": "TV",
+      "episodes": 140,
+      "status": "Finished Airing",
+      "season": "Summer",
+      "year": 2014,
+      "score": 7.59,
+      "poster": "https://i.animepahe.pw/posters/7800b6842d7d57ad9deca076a1cfed8cc9f39fd76e74f79d601b2b130c5be44c.jpg",
+      "session": "1cfd1195-c311-2238-85b8-bf521f175612"
+    },
+    {
+      "id": 3741,
+      "title": "Tobidasu PriPara: Mi~nna de Mezase! Idol☆Grand Prix",
+      "type": "Movie",
+      "episodes": 1,
+      "status": "Finished Airing",
+      "season": "Fall",
+      "year": 2015,
+      "score": 6.8,
+      "poster": "https://i.animepahe.pw/posters/3c07bde914fb4953c454e11456e6afc8f1e1a30821ea16cbdd3bfca59ab2ab77.jpg",
+      "session": "d3626ba8-207d-b2fe-2263-a486366c20eb"
+    },
+    {
+      "id": 3742,
+      "title": "PriPara Movie: Mi~nna no Akogare♪ Let's Go☆Prix Paris",
+      "type": "Movie",
+      "episodes": 1,
+      "status": "Finished Airing",
+      "season": "Spring",
+      "year": 2016,
+      "score": 7.21,
+      "poster": "https://i.animepahe.pw/posters/4a695af1b79bcb1768bf7bb504c0ed27910fbc0e48eec4a09c8cea063c755053.jpg",
+      "session": "a9f7d062-1d29-9f7d-21e8-4a257e092b2b"
+    },
+    {
+      "id": 3743,
+      "title": "PriPara Movie: Mi~nna de Kagayake! Kirarin☆Star Live!",
+      "type": "Movie",
+      "episodes": 1,
+      "status": "Finished Airing",
+      "season": "Spring",
+      "year": 2017,
+      "score": 7.09,
+      "poster": "https://i.animepahe.pw/posters/21ecf341372a8a94312534812ada37a765e9d15b4985c00c4b0bfe85cc5fa858.jpg",
+      "session": "413e4aa1-502b-f5ad-9244-6732ed0eee3f"
+    },
+    {
+      "id": 2150,
+      "title": "Idol Time PriPara",
+      "type": "TV",
+      "episodes": 51,
+      "status": "Finished Airing",
+      "season": "Spring",
+      "year": 2017,
+      "score": 7.3,
+      "poster": "https://i.animepahe.pw/posters/95e73011d33538ccfa3b0fef14c09572bef22e1dfc69875883877530b1cb0303.jpg",
+      "session": "bb6e564c-307b-25e2-3e02-20287f3f28d0"
+    },
+    {
+      "id": 1161,
+      "title": "The Highschool Life of a Fudanshi",
+      "type": "TV",
+      "episodes": 12,
+      "status": "Finished Airing",
+      "season": "Summer",
+      "year": 2016,
+      "score": 6.51,
+      "poster": "https://i.animepahe.pw/posters/d0a6077ebec651c0524235f3fd6a7e5a6941b93835f24208ca2b9ef633458842.jpg",
+      "session": "ace599ce-afcd-0ea9-d2ce-4e5679be6bb8"
+    },
+    {
+      "id": 4113,
+      "title": "Strike Witches: Road to Berlin",
+      "type": "TV",
+      "episodes": 12,
+      "status": "Finished Airing",
+      "season": "Fall",
+      "year": 2020,
+      "score": 7.37,
+      "poster": "https://i.animepahe.pw/posters/6b60359b81d150e150e178d8e7575a74d986621b1664343e83ebe69bb3b13953.jpg",
+      "session": "f546faeb-60bd-e626-0eea-4dbf3161d412"
+    },
+    {
+      "id": 2630,
+      "title": "Revue Starlight",
+      "type": "TV",
+      "episodes": 12,
+      "status": "Finished Airing",
+      "season": "Summer",
+      "year": 2018,
+      "score": 7.67,
+      "poster": "https://i.animepahe.pw/posters/52c8ca883eb9564c4b5dc1ebcf13540f805d2aeb1073af4ce9e53b6372ec0c8f.jpg",
+      "session": "f011052a-ac94-adfb-5fb1-612765f56d59"
+    }
+  ]
+}
